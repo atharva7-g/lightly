@@ -247,7 +247,6 @@ show_error_context = true
 # Excludes
 # TODO(Philipp, 09/23): Remove these one by one (start with 300 files).
 exclude = '''(?x)(
-    lightly/cli/version_cli.py |
     lightly/cli/crop_cli.py |
     lightly/cli/embed_cli.py |
     lightly/cli/lightly_cli.py |
